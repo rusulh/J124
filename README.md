@@ -8,3 +8,16 @@ I'm a student at UC Berkeley, Pre-Med, majoring in microbiology and minoring in 
 1. Data Analysis with Python
 2. Medical Assisting 
 3. Medical terminology knowledge
+## Work Experience
+
+| Employer                                 | Job Description                                                                                                           |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| UC Davis Medical Hospital (Medical Assistant)   | - Obtain patient medical history, assess, and record vital signs.                                              |
+|                                          | - Submit clinical documentations in accordance with hospital guidelinesand enhancements.                                       |
+|                                          | - Under physician approval, verify patient pharmacy and medication information to order prescription quality and maintainability.                              |
+| Therapeutic Pathways (Behavior Technician)     | - Run one-to-one language therapy sessions with individuals diagnosed with autism spectrum disorder.          |
+|                                          | - Communicate confidentially and professionally with parents, supervisors, behavior analysts.  |
+|                                          | - Recorded client information accurately indicating the progress                             |
+| Sacramento Foot, and Ankle (Medical Assistant)         | - Incorporate knowledge of a variety of analytical methods                         |
+|                                          | - Performing pretreatment foot exams, setting up instruments and equipment needed.                                        |
+|                                          | - Hands-on assistance by helping elderly patients take off and put on their shoes.                            |
