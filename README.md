@@ -7,4 +7,4 @@ I'm a student at UC Berkeley, Pre-Med, majoring in microbiology and minoring in 
 1. Data Analysis with Python
 2. Medical Assisting 
 3. Medical terminology knowledge
-![Image Alt Text](relative_path_to_your_image_file.png)
+![GitHub Logo](/images/logo.png)
