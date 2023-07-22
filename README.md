@@ -3,7 +3,7 @@ Intro to Data Journalism Markdown practice resume.
 # Rusul Hadi
 ## About Me
 I'm a student at UC Berkeley, Pre-Med, majoring in microbiology and minoring in data science. 
-![Profile Picture](Uploading image)
+![Alt text](relative%20path/to/img.jpg?raw=true "Uploading image")
 ## Skills
 1. Data Analysis with Python
 2. Medical Assisting 
